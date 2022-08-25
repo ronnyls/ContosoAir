@@ -24,7 +24,7 @@ steps:
 - task: DownloadPipelineArtifact@2
   inputs:
     buildType: 'specific'
-    project: 'ccf3323a-bbdd-4780-8a12-f68dff782eee'
+    project: '58f09ea3-6d5c-415a-89a2-e1252c91026b'
     definition: '15'
     specificBuildWithTriggering: true
     buildVersionToDownload: 'latest'
