@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/AzureDevOpsKurs/contosoAirRonny/_apis/build/status/ronnyls.ContosoAir?branchName=master)](https://dev.azure.com/AzureDevOpsKurs/contosoAirRonny/_build/latest?definitionId=15&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
